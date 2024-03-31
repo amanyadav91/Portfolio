@@ -1,0 +1,7 @@
+span{
+    color: red;
+}
+img:hover{
+    transform: translate(10%, -10%);
+    transition: 2s;
+}
